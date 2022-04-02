@@ -2,7 +2,7 @@
 - 👀 I’m interested in ss7
 - 🌱 I’m currently learning information security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sosobena@gmail.com
 
 <!---
 Soulleyma/Soulleyma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
